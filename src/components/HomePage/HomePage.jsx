@@ -507,7 +507,7 @@ const HomePage = () => {
         }}
       >
         {/* Left Side - Lottie Animation */}
-        <div className="hidden md:block w-72 md:w-96">
+        <div className=" w-72 md:w-96">
           <Lottie animationData={chatbotAnimation} loop={true} />
         </div>
 
